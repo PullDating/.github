@@ -6,9 +6,7 @@ Check out the project Wiki here:
 https://github.com/PullDating/Org/wiki  
 
 On Github you can view & contribute to the source code of the project, but we also have discussions that you can participate in:  
-https://github.com/PullDating/Org/discussions  
-
-See our documentation and planning on Fibery (Depricated): https://pulldating.fibery.io/@public/Overview   
+https://github.com/PullDating/Org/discussions   
 
 Join the discussion on reddit: https://www.reddit.com/r/PullDating/   
 Join the team on discord: https://discord.gg/VJn4huDnWZ   
