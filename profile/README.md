@@ -1,6 +1,6 @@
 # Welcome to the Pull Dating Project
 
-Pull is an open-source and community-driven, non-profit project to make a better option for online dating, so that it is not controlled by a greedy monopoly. It puts transparency, fairness, and real connection above profits. 
+Pull is an open-source, non-profit project to make a better option for online dating, so that it is not controlled by a monopoly (Match group). It puts transparency, fairness, and real connection above profits. 
 
 Check out the project Wiki here:  
 https://github.com/PullDating/Org/wiki  
